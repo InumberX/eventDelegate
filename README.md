@@ -47,3 +47,7 @@ document.querySelector('body').setEventDelegate(
  '#XXX'
 );
 ```
+
+# サンプル
+
+https://codepen.io/inumberx/pen/bGVvZgx?editors=0010
