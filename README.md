@@ -9,6 +9,8 @@ eventDelegate（イベントデリゲート）は、その名の通りイベン�
 
 # 使い方
 
+## HTML
+
 HTML 上で「event-delegate.js」もしくは「event-delegate.min.js」を読み込んでください。
 
 ```
@@ -16,6 +18,8 @@ HTML 上で「event-delegate.js」もしくは「event-delegate.min.js」を読�
 or
 <script src="event-delegate.min.js"></script>
 ```
+
+## JavaScript
 
 処理の設定は「setEventDelegate メソッド」で行います。
 引数には以下を指定してください。
